@@ -1,16 +1,14 @@
-## Hi there 👋
+## Anna Aljanaki
+## Assistant Professor
+## University of Tartu 
 
-<!--
-**aljanaki/aljanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Checkout by repositories: 
+Inna Lisniak, Anna Aljanaki, and Liudmyla Efremova. (2025) A corpus of Ukrainian folk songs from Podillia.
+https://github.com/aljanaki/Symbolic_Corpus_Of_Ukrainian_Folk_Music
 
-Here are some ideas to get you started:
+Anna ALjanaki (2024) Genre-Conformity in the Topics of Lyrics and Song Popularity, NLP4Musa
+https://github.com/aljanaki/lyrics_topic_analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I am always willing to talk about:
+--  teaching music information retrieval
+--  music embeddings
